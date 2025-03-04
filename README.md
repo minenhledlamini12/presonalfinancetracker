@@ -77,6 +77,3 @@ This is a simple personal finance tracker application built using Python and Tki
 
 Contributions are welcome! Please feel free to submit pull requests with bug fixes, new features, or improvements to the documentation.
 
-## License
-
-[Specify the license, e.g., MIT License]
